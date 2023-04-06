@@ -1,0 +1,13 @@
+.srchbar{
+    position: absolute;
+    top: 0.833vw;
+    left: 20.208vw;
+}
+.comptxt{
+    padding: 0 10.417vw;
+    margin-top: -10px;
+}
+.comptxt img{
+    width: 79.167vw;
+    margin-bottom: 2.222vw;
+}

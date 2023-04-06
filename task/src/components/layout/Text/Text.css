@@ -1,0 +1,23 @@
+.text{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 4.514vw 10.417vw;
+    gap: 5.417vw;
+}
+.domain{
+    font-weight: 600;
+    font-size: 2.361vw;
+}
+.domainTo{
+    font-size: 1.111vw;
+}
+.textimg img{
+    width: 29.306vw;
+    height: 24.028vw;
+}
+.images{
+    display: flex;
+    gap: 1.111vw;
+    align-items: center;
+}

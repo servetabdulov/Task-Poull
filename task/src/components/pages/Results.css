@@ -1,0 +1,11 @@
+.srchBar {
+  position: absolute;
+  top: 60px;
+  left: 20.208vw;
+}
+.resultRight{
+    display: flex;
+    flex-direction: row;
+    padding: 8.333vw 10.417vw;
+    gap: 2.639vw;
+}

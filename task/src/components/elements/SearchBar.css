@@ -1,0 +1,37 @@
+.search {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+}
+.select{
+  display: flex;
+}
+.select select {
+  width: 10.556vw;
+  height: 4.167vw;
+  border: 0.139vw solid #52ab84;
+  font-size: 1.111vw;
+}
+.select select option{
+  font-size: 0.972vw;
+}
+.input{
+    display: flex;
+    flex-direction: row;
+}
+.input input {
+  width: 40.278vw;
+  height: 4.167vw;
+  border: 0.139vw solid #52ab84;
+}
+.input input:placeholder-shown{
+  font-size: 1.111vw;
+}
+.input button{
+    border: none;
+    background-color: white;
+}
+.input button img{
+  width: 1.667vw;
+  height: 1.667vw;
+}

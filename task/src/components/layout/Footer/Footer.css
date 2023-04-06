@@ -1,0 +1,28 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2.292vw 12.5vw 3.056vw 10.417vw;
+}
+.left {
+  display: flex;
+  flex-direction: row;
+}
+.left .first{
+    display: flex;
+    gap: 1.111vw;
+    margin-right: 5.556vw;
+}
+.left .first img{
+    width: 24px;
+    height: 24px;
+}
+.left .to {
+  display: flex;
+  flex-direction: row;
+  font-size: 12px;
+  gap: 3.333vw;
+}
+label{
+    font-size: 12px;
+}

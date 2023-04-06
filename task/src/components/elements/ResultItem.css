@@ -1,0 +1,25 @@
+.resultName {
+  color: black;
+}
+.resultDes {
+  color: black;
+  margin-bottom: 10px;
+}
+.resultUl {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+.resultUl li {
+  color: #64626a;
+  background-color: #eff1f3;
+  border-radius: 4px;
+  display: block;
+  padding: 0.625vw 0.972vw;
+}
+.resultA {
+  color: black;
+}
+.resultTitle {
+  color: black;
+}
